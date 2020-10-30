@@ -119,12 +119,33 @@ h5 {
 }
 /* Section & Paragraph */
 
+section {
+        margin-top: 8rem;
+}
+
+p {
+    margin-top: 16rem;
+    margin-bottom: 16 rem;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 0rem;
+    padding-bottom: 0rem;
+    padding-left: 16rem;
+    padding-right: 16rem;
+    width: 90%;
+    text-align: left;
+}
 
 
 /* Image & Figure */
 
+img {}
+
+figure {}
+
+figcaption {}
 
 
 /* Footer */
 
-
+footer {}
