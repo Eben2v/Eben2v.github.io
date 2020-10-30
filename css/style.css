@@ -139,13 +139,31 @@ p {
 
 /* Image & Figure */
 
-img {}
+img {
+    width: 100%;
+    margin-top: 0;
+    margin-bottom: 0;
+    max-width: 800rem;
+}
 
-figure {}
+figure {
+        margin-bottom: 32rem;
+}
 
-figcaption {}
+figcaption {
+            padding-top: 8rem;
+            text-align: right;
+}
 
 
 /* Footer */
 
-footer {}
+footer {
+        padding-top: 16rem;
+        padding-bottom: 16rem;
+        padding-left: 16rem;
+        padding-right: 16rem;
+        width: 32rem;
+        font-style: solid;
+        color: #333;
+}
