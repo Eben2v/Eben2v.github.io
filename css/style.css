@@ -260,6 +260,11 @@ nav {
    
 }
 
+.blog{
+    transform: rotate(12deg);
+    text-decoration: line-through;
+}
+
 .right-footer{
     text-align: right;
 }
