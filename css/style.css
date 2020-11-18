@@ -112,6 +112,12 @@ header{
 h1{
     font-family: "Roboto", sans-serif;
 }
+
+h2{
+    font-family: "Lato", sans-serif;
+    font-weight: bold;
+}
+
 h3{
     font-family: "Montserrat", sans-serif;
     margin: .5rem;
@@ -119,6 +125,7 @@ h3{
     padding: .5rem;
     text-align: left;
 }
+
 a{
     outline: none;
     text-decoration-line: none;
