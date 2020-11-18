@@ -112,7 +112,6 @@ header{
 
 h1{
     font-family: "Roboto", sans-serif;
-    margin: 
 }
 h3{
     font-family: "Montserrat", sans-serif;
@@ -135,12 +134,14 @@ a:link{
      
     text-transform: uppercase;
     font-family: "Ultra", serif;
+    font-weight: bold;
     background-color: #83344e;
     padding: 1.2rem;
-    box-shadow:0.625rem 0.625rem 0.625rem black;
+    box-shadow:0.600rem 0.600rem 0.600rem black;
     border-radius: 1.875rem 0.625rem;
     border-color: black;
-    color: #eeeedd;  
+    color: #eeeedd;
+    
 }
 
 .main-section {
