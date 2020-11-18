@@ -200,8 +200,8 @@ footer {
     text-align:left;
     font-size: .25rem;
 	padding: 1rem;
-	border-bottom: 1.125rem solid black;
-    border-bottom-width: 100%;
+	border-bottom: 0.125rem solid black;
+    border-bottom-width: 900%;
 }
 
 .sub-section{
