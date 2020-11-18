@@ -275,6 +275,8 @@ nav {
     border-top: 0.125rem solid gray;
     border-bottom: 0.125rem solid gray;
     word-spacing: 8rem;
+    padding-top: 4rem;
+    padding-bottom: 4rem;
     text-align: center;
     color: #28476e;
     width: 100%;
