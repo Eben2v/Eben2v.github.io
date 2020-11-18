@@ -263,7 +263,7 @@ button{
     box-shadow:0.625rem 0.625rem 0.625rem grey;
 }
 
-.blog{
+a:nth-child(2){
     transform: rotate(12deg);
     text-decoration: line-through;
     color: black;
