@@ -177,12 +177,12 @@ aside{
 }
 
 figure {
-    width: 50%;
+    width: 20%;
 }
 
 figcaption {
     background-color: beige;
-    margin:1.375rem;
+    margin:.375rem;
 }
 time{
     font-style: italic;
