@@ -197,8 +197,16 @@ footer {
     text-decoration: none;
     text-align:left;
     font-size: .25rem;
-    border-bottom:  0.125rem solid black;
 	padding: 1rem;
+}
+
+.expand:after {
+    content: "";
+    display: block;
+    margin: 0 auto;
+    width: 900%
+    padding-top: 1.25rem;
+    border-bottom:  0.125rem solid black;
 }
 
 .sub-section{
