@@ -172,7 +172,7 @@ aside{
     float:left;
     margin: 1rem;
     padding-right: 23rem;
-    width: 3rem;
+    width: 2rem;
 
 }
 
@@ -199,7 +199,6 @@ footer {
     font-size: .25rem;
     border-bottom:  0.125rem solid black;
 	padding: 1rem;
-    border-bottom-width: 100%;
 }
 
 .sub-section{
