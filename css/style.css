@@ -263,11 +263,15 @@ button{
     box-shadow:0.625rem 0.625rem 0.625rem grey;
 }
 
-nav a(2){
-    transform: rotate(12deg);
+nav a:focus {
+    transform: rotate(4deg);
+    text-transform: uppercase;
+    font-size: 1.5rem;
     text-decoration: line-through;
+    padding-right: 2.5rem;
+    position: relative;
+    top: -.25rem;
     color: black;
-}
 
 nav {
     
