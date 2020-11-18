@@ -172,6 +172,10 @@ aside{
 
 }
 
+figure {
+    width: 50%;
+}
+
 figcaption {
     background-color: beige;
     margin:.375rem;
@@ -215,7 +219,7 @@ footer {
 button{
     
     background-color: #28476e;
-    border-color: blue;
+    border-color: #28476e;
     color: beige;
     font-family: "Ultra", serif;
     font-size: 2rem;
