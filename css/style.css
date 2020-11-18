@@ -152,6 +152,10 @@ article{
     width:70%;
 } 
 
+.article-image {
+    float: left;
+}
+
 aside{
     width:20%;
     border-left: 0.125rem solid black;
