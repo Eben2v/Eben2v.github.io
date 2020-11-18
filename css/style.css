@@ -184,6 +184,12 @@ figcaption {
     background-color: beige;
     margin:.375rem;
 }
+
+img, figcaption {
+    display: table-cell;
+    vertical-align: bottom;
+}
+
 time{
     font-style: italic;
     text-align: left;
