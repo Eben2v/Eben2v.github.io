@@ -250,11 +250,11 @@ nav {
 }
 
 .right-footer{
-    align-content: right;
+    text-align: right;
 }
 
 .left-footer{
-    align-content: left;
+    text-align: left;
 }
 
 li{
