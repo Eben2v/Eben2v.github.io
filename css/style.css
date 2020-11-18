@@ -81,6 +81,14 @@
     font-style:normal;
 }
 
+@font-face{
+    font-family: Open;
+    src: url(../fonts/sans-serif/opensans-regular.ttf)
+    format('truetype');
+    font-weight:normal;
+    font-style:normal;
+}
+
 html {
     font-size:16px;   
 }
@@ -255,21 +263,22 @@ button{
     box-shadow:0.625rem 0.625rem 0.625rem grey;
 }
 
+.blog{
+    transform: rotate(12deg);
+    text-decoration: line-through;
+    color: black;
+}
+
 nav {
     
-    font-family: "Montserrat", sans-serif;
+    font-family: "Open", sans-serif;
     border-top: 0.125rem solid gray;
     border-bottom: 0.125rem solid gray;
     word-spacing: 8rem;
     text-align: center;
-    color: black;
+    color: #28476e;
     width: 100%;
    
-}
-
-.blog{
-    transform: rotate(12deg);
-    text-decoration: line-through;
 }
 
 .right-footer{
